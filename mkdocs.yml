@@ -39,7 +39,8 @@ theme:
 nav:
   - Home: index.md
   - Newsletter: newsletter/index.md
-  - TechOps: techops/index.md
+  - Cloud : cloud/index.md
+  - DevOps/SRE: devops/index.md
   - Database: database/index.md
   - Blog: blog/index.md
 
